@@ -1,0 +1,26 @@
+BoroughID,Borough,Surface,Habitants,Density,Foreigners,Income
+1,Altstadt-Lehel,3.15,21100,6708,26.1,2000.0
+2,Ludwigsvorstadt-Isarvorstadt,4.4,51644,11734,28.4,1800.0
+3,Maxvorstadt,4.3,51402,11960,25.4,1700.0
+4,Schwabing-West,4.36,68527,15706,22.7,1700.0
+5,Au-Haidhausen,4.22,61356,14541,23.5,1700.0
+6,Sendling,3.94,40983,10405,26.9,1646.0
+7,Sendling-Westpark,7.81,59643,7632,28.9,1650.0
+8,Schwanthalerhöhe,2.07,29743,14367,33.5,1400.0
+9,Neuhausen-Nymphenburg,12.91,98814,7651,24.3,1600.0
+10,Moosach,11.09,54223,4888,31.5,1600.0
+11,Milbertshofen-Am Hart,13.42,75094,5597,40.8,1429.0
+12,Schwabing-Freimann,25.67,77936,3036,29.3,1699.0
+13,Bogenhausen,23.71,87950,3709,24.4,1800.0
+14,Berg am Laim,6.31,46098,7300,31.9,1577.0
+15,Trudering-Riem,22.45,73206,3261,23.3,1667.0
+16,Ramersdorf-Perlach,19.9,116327,5847,33.9,1500.0
+17,Obergiesing-Fasangarten,5.72,54256,9485,31.1,1600.0
+18,Untergiesing-Harlaching,8.06,53184,6601,24.1,1700.0
+19,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,17.76,96714,5445,27.4,1667.0
+20,Hadern,9.22,49898,5410,27.3,1615.0
+21,Pasing-Obermenzing,16.5,74625,4523,22.9,1777.0
+22,Aubing-Lochhausen-Langwied,34.06,47813,1404,28.4,1561.0
+23,Allach-Untermenzing,15.45,33355,2159,24.2,1667.0
+24,Feldmoching-Hasenbergl,28.94,61774,2135,32.4,1388.0
+25,Laim,5.29,56546,10698,28.5,1700.0
